@@ -1,0 +1,22 @@
+.navbar{
+    background-color: rgb(212, 212, 170);
+}
+
+.quem-somos{
+    background-color: rgb(236, 209, 132);
+}
+
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros{
+    background-color: rgb(56, 51, 44);
+    color: white;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;s
+}
