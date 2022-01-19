@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;600&display=swap');
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding-bottom: 20px;
+}
+
+#botao {
+    align-items: left;
+}
+
+#title {
+    margin-top: 30px;
+}
+
+#input{
+    margin-top: 15px;
+    width: 50%;
+}
