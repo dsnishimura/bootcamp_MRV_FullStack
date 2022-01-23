@@ -13,6 +13,7 @@ body {
 
 #botao {
     align-items: left;
+    
 }
 
 #title {
@@ -22,4 +23,22 @@ body {
 #input{
     margin-top: 15px;
     width: 50%;
+}
+
+.flexCheckChecked{
+    text-decoration: line-through;
+
+}
+
+.form-check-label{
+    margin-right: 5px;
+
+}
+
+.form-check-label[for="flexCheckChecked"]{
+    text-decoration: line-through;
+
+}
+.fas fa-trash-alt{
+    margin-left: 5px;
 }
